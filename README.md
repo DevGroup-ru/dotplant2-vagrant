@@ -20,6 +20,7 @@ Admin user is `admin` with password `password`.
 ## Demo data
 
 **WARNING** Demo data is in Russian for now :(
+
 **WARNING-2** Demo migration also downloads big(~90Mb) archive with sample images.
 
 ```
