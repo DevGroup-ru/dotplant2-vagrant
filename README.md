@@ -1,7 +1,7 @@
 Vagrant box for DotPlant2 CMS
 =============================
 
-**WARNING** This box currently uses master branch of dotplant2. You can change it in `puphpet/files/exec-once/01-www.sh`.
+**WARNING** This box currently uses master branch of dotplant2. You can change it in `puphpet/files/exec-once-unprivileged/01-www.sh`.
 
 How to use:
 
