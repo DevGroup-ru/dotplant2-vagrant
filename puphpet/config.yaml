@@ -68,7 +68,7 @@ cron:
         cj_7efptvee72do:
             name: 'background-tasks for dotplant'
             user: user
-            command: 'cd /var/www/dotplant2/applicaiton/ && ./yii background/tasks'
+            command: 'cd /var/www/dotplant2/application/ && ./yii background/tasks'
             minute: '*'
             hour: '*'
             weekday: '*'
